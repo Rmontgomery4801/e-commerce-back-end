@@ -8,8 +8,11 @@ A MySql database and application backend for an E-Commerce site.
 
 ## Installation & Usage
 ```md
-npm i (+ dependencies)
+npm i
+mysql -u root -p
+SOURCE db/schema.sql;
+exit mysql
 npm run seed
-node server.js
+npm start
 ```
 ## Video Demonstration
