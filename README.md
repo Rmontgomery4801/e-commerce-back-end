@@ -2,8 +2,9 @@
 
 ## Description
 ```md
-A MySql database and application backend for an E-Commerce site.
+An application that configures an Express.js API and that uses Sequelize to interact with a MySql database for an E-Commerce site.
 ```
+
 ![Alt text](assets/images/13-orm-homework-demo-01.gif)
 
 ## Installation & Usage
